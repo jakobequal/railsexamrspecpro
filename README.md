@@ -27,7 +27,6 @@ The following files will need to be customized to your installation.
   cp config/deploy/production.rb.example config/deploy/production.rb
   ```
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46923629-1/rails4-example/README)](https://github.com/igrigorik/ga-beacon)
 =======
 # railsexamrspecpro
 This is Rails project by RSpec
