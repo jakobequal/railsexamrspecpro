@@ -1,13 +1,6 @@
 <<<<<<< HEAD
 ##rails4-example
 
-A Rails 4.1 / Ruby 2 starter site using Devise and Bootstrap 3.
-
-Active demo sites:
-
-- <http://rails4example.gitrepoexamples.com> (master branch)
-- <http://arails4eg.joanswork.net/> (dev branch)
-
 ####Updates
 
 Oct 31, 2014:
